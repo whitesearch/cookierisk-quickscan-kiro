@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cookierisk-quickscan",
+  "version": "1.0.0",
+  "description": "Check an authorized public homepage for cookies and tracking observed before consent interaction.",
+  "author": {
+    "name": "CookieRisk",
+    "email": "info@cookierisk.eu",
+    "url": "https://cookierisk.eu"
+  },
+  "keywords": [
+    "CookieRisk",
+    "Quickscan",
+    "cookie scan",
+    "pre-consent tracking",
+    "cookie banner"
+  ],
+  "license": "LicenseRef-Kiro-Powers-Publisher-Terms",
+  "homepage": "https://cookierisk.eu/developers/mcp",
+  "repository": "https://github.com/whitesearch/cookierisk-quickscan-kiro"
+}
